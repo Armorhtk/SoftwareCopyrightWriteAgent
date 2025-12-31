@@ -1,4 +1,8 @@
-**# Software Copyright Write Agent **
+# Software Copyright Write Agent 
+
+Version: V1.0
+
+Introduction：TBD
 
 
 
@@ -21,7 +25,6 @@ graph TD
     end
 
     subgraph Phase2 ["Phase 2: Deep Analysis (Parallel)"]
-        direction TB
         D --> E1["Architecture Agent: Analyzer System Layout"]
         D --> E2["Function Agent: Map Core Features"]
         D --> E3["Algorithm Agent: Extract Logic Flows"]
